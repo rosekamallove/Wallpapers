@@ -1,10 +1,8 @@
 ![Header SVG](https://makccr.github.io/images/github-header.svg)
 
-This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
+This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). 
 
 ![Sample of Wallpapers](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb.jpg)
-
-# 2020 Collection
 I've spent a bit of time trying to make sure that all of my wallpapers were organized well; mostly just because, as the library has grown very large, it's become increasingly difficult to find what I'm looking for. All of the wallpapers use a fairly simple naming scheme that looks something like this: ``generalCategory-more-specific-descriptor.jpg`` . For example: ``abstract-a.jpg`` or ``lotr-minas-tirith.jpg``. I've found that sort of *tagging* images with a general category, by using the category as a prefix in names makes the process of finding an image quite a bit easier. Displaying the images in a simple grid will have similar images grouped together, and makes the library much easier to browse casually, or with a specific intention. 
 
 That being said, the categories for my wallpapers, are: 
@@ -16,9 +14,6 @@ That being said, the categories for my wallpapers, are:
 5. **Tech**: I've added a fifth category for "tech" wallpapers. These are mostly some past and current default wallpapers from Windows and OSX releases; but this also includes a set of "retro tech wallpapers" that I designed a while back. You can view and access just those images [here](https://photos.google.com/share/AF1QipNcKt7p6gWWk5sHYwj9SuhOHTliwypGEO-CfQCr5y4eI1qesRrH3wFOyIaQ871pGg?key=T1RSejMzUk9yUzBGaEx6LVduSmNNRW8wVnAyb2Rn).
 6. **Cyberpunk**: I have a new category for some cyberpunk style wallpapers. It's pretty self-explanatory. 
 7. **Places**: There is a another new category now: Places. It's images of nice places in the world, or landmarks, or anything of that sort. There are some really great shots in here. 
-
-# 2021 Collection
-I'm not organizing these wallpapers in any specific way, as I have  always just ended up randomly picking wallpapers anyway. The main thrust of the new repo actually, is to just focus more on the wallpapers  working well with the YouTube channel (I still have my original set for  more personal use). The previous wallpaper was very diverse, in-terms of color, style, and resolution. This repository is not. **All wallpapers are 4k (3840x2160), or higher**, and all wallpapers are picked with the intention of having a  transparent terminal on top of them, or text on top of them (not  necessarily all dark colors or anything, just...)
 
 # [Justin Maller](http://www.justinmaller.com/) Collection
 If you're a fan of [MKBHD](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ), or any of the other #TeamCrispyLive tech creators; you might be familiar with Maller's artwork and not even know it. It's no surprise that Maller's geometric style of artwork caught on with the likes of [SlickWraps](https://www.slickwraps.com), [Google](http://www.justinmaller.com/project/google-pixel/), [Nike](http://www.justinmaller.com/project/nike-apparel-2012/), [Under Armour](http://www.justinmaller.com/project/under-armour/), [American Express](http://www.justinmaller.com/project/american-express/), and [The Grammy Awards](http://justinmaller.com/project/grammys/); these images are unique and beautiful. So it also shouldn't be a surprise that I'm a big fan of these wallpapers as well. I've grabbed quite a few of these wallpapers for my personal collection, and they're all perfect in every way (except they're not 4K).
